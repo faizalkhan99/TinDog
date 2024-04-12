@@ -1,1 +1,2 @@
-TinDog Starting Files
+Tinder but for you pet dogs🙂
+I present Tindog. 
